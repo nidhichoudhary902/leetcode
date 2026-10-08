@@ -4,15 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0867-transpose-matrix) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nidhichoudhary902/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nidhichoudhary902/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
