@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nidhichoudhary902/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nidhichoudhary902/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0867-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nidhichoudhary902/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nidhichoudhary902/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
