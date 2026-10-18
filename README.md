@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nidhichoudhary902/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nidhichoudhary902/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/nidhichoudhary902/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nidhichoudhary902/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nidhichoudhary902/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/nidhichoudhary902/leetcode/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nidhichoudhary902/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/nidhichoudhary902/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
