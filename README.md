@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nidhichoudhary902/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/nidhichoudhary902/leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/nidhichoudhary902/leetcode/tree/master/0661-image-smoother) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nidhichoudhary902/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0867-transpose-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0867-transpose-matrix) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nidhichoudhary902/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/nidhichoudhary902/leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/nidhichoudhary902/leetcode/tree/master/0661-image-smoother) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/nidhichoudhary902/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0867-transpose-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0867-transpose-matrix) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/nidhichoudhary902/leetcode/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
