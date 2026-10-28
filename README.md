@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nidhichoudhary902/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/nidhichoudhary902/leetcode/tree/master/0075-sort-colors) |
 | [0498-diagonal-traverse](https://github.com/nidhichoudhary902/leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/nidhichoudhary902/leetcode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nidhichoudhary902/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nidhichoudhary902/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nidhichoudhary902/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/nidhichoudhary902/leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -97,5 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nidhichoudhary902/leetcode/tree/master/0075-sort-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nidhichoudhary902/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nidhichoudhary902/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nidhichoudhary902/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
