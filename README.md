@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nidhichoudhary902/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/nidhichoudhary902/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/nidhichoudhary902/leetcode/tree/master/0014-longest-common-prefix) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nidhichoudhary902/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nidhichoudhary902/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/nidhichoudhary902/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/nidhichoudhary902/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
