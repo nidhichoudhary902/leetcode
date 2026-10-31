@@ -1,6 +1,6 @@
 class Solution {
     public int compress(char[] chars) {
-        int index = 0;
+        StringBuilder sb = new StringBuilder();
         int i = 0;
         while (i < chars.length) {
             char ch = chars[i];
@@ -9,16 +9,14 @@ class Solution {
                 count++;
                 i++;
             }
-            chars[index] = ch;
-            index++;
+            sb.append(ch);
             if (count > 1) {
-                String s = String.valueOf(count);
-                for (int j = 0; j < s.length(); j++) {
-                    chars[index] = s.charAt(j);
-                    index++;
-                }
+                sb.append(count);
             }
         }
-        return index;
+        for (int j = 0; j < sb.length(); j++) {
+            chars[j] = sb.charAt(j);
+        }
+        return sb.length();
     }
 }
