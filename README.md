@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nidhichoudhary902/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nidhichoudhary902/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nidhichoudhary902/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/nidhichoudhary902/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nidhichoudhary902/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nidhichoudhary902/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nidhichoudhary902/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nidhichoudhary902/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nidhichoudhary902/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nidhichoudhary902/leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/nidhichoudhary902/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/nidhichoudhary902/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nidhichoudhary902/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
